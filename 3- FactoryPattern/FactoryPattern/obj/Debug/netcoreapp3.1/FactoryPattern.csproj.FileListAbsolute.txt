@@ -1,0 +1,13 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.deps.json
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.runtimeconfig.json
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.runtimeconfig.dev.json
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.dll
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfo.cs
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.dll
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.genruntimeconfig.cache

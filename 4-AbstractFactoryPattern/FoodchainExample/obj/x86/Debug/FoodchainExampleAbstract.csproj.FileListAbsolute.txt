@@ -1,0 +1,5 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-AbstractFactoryPattern\FoodchainExample\bin\Debug\FoodchainExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-AbstractFactoryPattern\FoodchainExample\bin\Debug\FoodchainExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-AbstractFactoryPattern\FoodchainExample\obj\x86\Debug\FoodchainExampleAbstract.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-AbstractFactoryPattern\FoodchainExample\obj\x86\Debug\FoodchainExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-AbstractFactoryPattern\FoodchainExample\obj\x86\Debug\FoodchainExample.pdb
