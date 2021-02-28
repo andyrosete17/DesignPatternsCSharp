@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -36,16 +36,16 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="AbstractFactory.cs" />
-    <Compile Include="ConcreteFactory1.cs" />
-    <Compile Include="ConcreteFactory2.cs" />
-    <Compile Include="AbstractProductA.cs" />
-    <Compile Include="AbstractProductB.cs" />
-    <Compile Include="ProductA1.cs" />
-    <Compile Include="ProductB1.cs" />
-    <Compile Include="ProductA2.cs" />
-    <Compile Include="ProductB2.cs" />
-    <Compile Include="Client.cs" />
+    <Compile Include="3-AbstractFactory\AbstractFactory.cs" />
+    <Compile Include="4-ConcreteFactory\ConcreteFactory1.cs" />
+    <Compile Include="4-ConcreteFactory\ConcreteFactory2.cs" />
+    <Compile Include="2-AbstractClass\AbstractProductA.cs" />
+    <Compile Include="2-AbstractClass\AbstractProductB.cs" />
+    <Compile Include="1-Products\ProductA1.cs" />
+    <Compile Include="1-Products\ProductB1.cs" />
+    <Compile Include="1-Products\ProductA2.cs" />
+    <Compile Include="1-Products\ProductB2.cs" />
+    <Compile Include="5-Client\Client.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
