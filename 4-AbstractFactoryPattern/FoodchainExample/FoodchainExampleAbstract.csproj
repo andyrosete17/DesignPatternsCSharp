@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -36,16 +36,16 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="AfricaFactory.cs" />
-    <Compile Include="AustraliaFactory.cs" />
-    <Compile Include="Carnivore.cs" />
-    <Compile Include="ContinentFactory.cs" />
-    <Compile Include="Dingo.cs" />
-    <Compile Include="Ecosystem.cs" />
-    <Compile Include="Herbivore.cs" />
-    <Compile Include="Kangaroo.cs" />
-    <Compile Include="Lion.cs" />
-    <Compile Include="Zebra.cs" />
+    <Compile Include="4-ConcreteFactory\AfricaFactory.cs" />
+    <Compile Include="4-ConcreteFactory\AustraliaFactory.cs" />
+    <Compile Include="2-AbstractClass\Carnivore.cs" />
+    <Compile Include="3-AbstractFactory\ContinentFactory.cs" />
+    <Compile Include="1-Products\Dingo.cs" />
+    <Compile Include="5-Client\Ecosystem.cs" />
+    <Compile Include="2-AbstractClass\Herbivore.cs" />
+    <Compile Include="1-Products\Kangaroo.cs" />
+    <Compile Include="1-Products\Lion.cs" />
+    <Compile Include="1-Products\Zebra.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
