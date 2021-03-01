@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\3- FactoryPattern",
+    "\\3- FactoryPattern\\FactoryPattern",
+    "\\4-AbstractFactoryPattern",
+    "\\4-AbstractFactoryPattern\\AbstractFactoryPattern",
+    "\\4-AbstractFactoryPattern\\AbstractFactoryPattern\\2-AbstractClass",
+    "\\4-AbstractFactoryPattern\\AbstractFactoryPattern\\4-ConcreteFactory",
+    "\\4-AbstractFactoryPattern\\FoodchainExample",
+    "\\4-AbstractFactoryPattern\\FoodchainExample\\4-ConcreteFactory",
+    "\\4-AbstractFactoryPattern\\InterfaceAbstractFactory",
+    "\\4-AbstractFactoryPattern\\InterfaceAbstractFactory\\3-AbstractFactory"
+  ],
+  "SelectedNode": "\\4-AbstractFactoryPattern\\AbstractFactoryPattern\\4-ConcreteFactory\\ConcreteFactory1.cs",
+  "PreviewInSolutionExplorer": false
+}

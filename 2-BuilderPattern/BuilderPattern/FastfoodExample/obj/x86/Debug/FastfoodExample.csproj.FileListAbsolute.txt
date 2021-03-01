@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-BuilderPattern\BuilderPattern\FastfoodExample\bin\Debug\FastfoodExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-BuilderPattern\BuilderPattern\FastfoodExample\bin\Debug\FastfoodExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-BuilderPattern\BuilderPattern\FastfoodExample\obj\x86\Debug\FastfoodExample.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-BuilderPattern\BuilderPattern\FastfoodExample\obj\x86\Debug\FastfoodExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-BuilderPattern\BuilderPattern\FastfoodExample\obj\x86\Debug\FastfoodExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-BuilderPattern\BuilderPattern\FastfoodExample\obj\x86\Debug\FastfoodExample.pdb

@@ -3,23 +3,48 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern.csproj", "{C84681BA-F501-44DE-BAE1-914628C2645E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{A2983280-2AC3-4885-A42B-41FBF6D065FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastfoodExample", "FastfoodExample\FastfoodExample.csproj", "{E462286E-94AD-4849-B5C1-41CDD4957DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastfoodExampleInterface", "FastfoodExampleInterface\FastfoodExampleInterface.csproj", "{4AF5F731-ACD4-48E3-8CA1-9CE96CE5AD13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C84681BA-F501-44DE-BAE1-914628C2645E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C84681BA-F501-44DE-BAE1-914628C2645E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C84681BA-F501-44DE-BAE1-914628C2645E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C84681BA-F501-44DE-BAE1-914628C2645E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2983280-2AC3-4885-A42B-41FBF6D065FE}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A2983280-2AC3-4885-A42B-41FBF6D065FE}.Debug|x86.ActiveCfg = Debug|x86
+		{A2983280-2AC3-4885-A42B-41FBF6D065FE}.Debug|x86.Build.0 = Debug|x86
+		{A2983280-2AC3-4885-A42B-41FBF6D065FE}.Release|Any CPU.ActiveCfg = Release|x86
+		{A2983280-2AC3-4885-A42B-41FBF6D065FE}.Release|x86.ActiveCfg = Release|x86
+		{A2983280-2AC3-4885-A42B-41FBF6D065FE}.Release|x86.Build.0 = Release|x86
+		{E462286E-94AD-4849-B5C1-41CDD4957DB6}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E462286E-94AD-4849-B5C1-41CDD4957DB6}.Debug|x86.ActiveCfg = Debug|x86
+		{E462286E-94AD-4849-B5C1-41CDD4957DB6}.Debug|x86.Build.0 = Debug|x86
+		{E462286E-94AD-4849-B5C1-41CDD4957DB6}.Release|Any CPU.ActiveCfg = Release|x86
+		{E462286E-94AD-4849-B5C1-41CDD4957DB6}.Release|x86.ActiveCfg = Release|x86
+		{E462286E-94AD-4849-B5C1-41CDD4957DB6}.Release|x86.Build.0 = Release|x86
+		{4AF5F731-ACD4-48E3-8CA1-9CE96CE5AD13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF5F731-ACD4-48E3-8CA1-9CE96CE5AD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF5F731-ACD4-48E3-8CA1-9CE96CE5AD13}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4AF5F731-ACD4-48E3-8CA1-9CE96CE5AD13}.Debug|x86.Build.0 = Debug|Any CPU
+		{4AF5F731-ACD4-48E3-8CA1-9CE96CE5AD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF5F731-ACD4-48E3-8CA1-9CE96CE5AD13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF5F731-ACD4-48E3-8CA1-9CE96CE5AD13}.Release|x86.ActiveCfg = Release|Any CPU
+		{4AF5F731-ACD4-48E3-8CA1-9CE96CE5AD13}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {881A35DE-421D-42AF-8F67-A67C5E0B01D0}
+		SolutionGuid = {E9BBE64D-233F-48E4-B959-39D907B62BB9}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = FastfoodExample\FastfoodExample.csproj
 	EndGlobalSection
 EndGlobal
