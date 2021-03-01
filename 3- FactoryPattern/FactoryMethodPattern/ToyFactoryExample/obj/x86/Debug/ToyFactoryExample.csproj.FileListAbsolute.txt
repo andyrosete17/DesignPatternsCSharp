@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\ToyFactoryExample\bin\Debug\ToyFactoryExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\ToyFactoryExample\bin\Debug\ToyFactoryExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\ToyFactoryExample\obj\x86\Debug\ToyFactoryExample.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\ToyFactoryExample\obj\x86\Debug\ToyFactoryExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\ToyFactoryExample\obj\x86\Debug\ToyFactoryExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\ToyFactoryExample\obj\x86\Debug\ToyFactoryExample.pdb

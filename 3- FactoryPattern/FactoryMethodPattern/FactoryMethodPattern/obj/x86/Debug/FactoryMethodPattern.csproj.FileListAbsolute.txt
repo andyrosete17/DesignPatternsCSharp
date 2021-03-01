@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.pdb

@@ -1,0 +1,13 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\ToyFactoryExampleInterface\bin\Debug\netcoreapp3.1\ToyFactoryExampleInterface.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\ToyFactoryExampleInterface\bin\Debug\netcoreapp3.1\ToyFactoryExampleInterface.deps.json
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\ToyFactoryExampleInterface\bin\Debug\netcoreapp3.1\ToyFactoryExampleInterface.runtimeconfig.json
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\ToyFactoryExampleInterface\bin\Debug\netcoreapp3.1\ToyFactoryExampleInterface.runtimeconfig.dev.json
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\ToyFactoryExampleInterface\bin\Debug\netcoreapp3.1\ToyFactoryExampleInterface.dll
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\ToyFactoryExampleInterface\bin\Debug\netcoreapp3.1\ToyFactoryExampleInterface.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\ToyFactoryExampleInterface\obj\Debug\netcoreapp3.1\ToyFactoryExampleInterface.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\ToyFactoryExampleInterface\obj\Debug\netcoreapp3.1\ToyFactoryExampleInterface.AssemblyInfoInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\ToyFactoryExampleInterface\obj\Debug\netcoreapp3.1\ToyFactoryExampleInterface.AssemblyInfo.cs
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\ToyFactoryExampleInterface\obj\Debug\netcoreapp3.1\ToyFactoryExampleInterface.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\ToyFactoryExampleInterface\obj\Debug\netcoreapp3.1\ToyFactoryExampleInterface.dll
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\ToyFactoryExampleInterface\obj\Debug\netcoreapp3.1\ToyFactoryExampleInterface.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\ToyFactoryExampleInterface\obj\Debug\netcoreapp3.1\ToyFactoryExampleInterface.genruntimeconfig.cache

@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToyFactoryExample/Program.cs">
+    <Files>
+      <File FileName="ToyFactoryExample/Toy.cs" Line="28" Column="3" />
+      <File FileName="ToyFactoryExample/Firetruck.cs" Line="18" Column="2" />
+      <File FileName="ToyFactoryExample/Duck.cs" Line="33" Column="25" />
+      <File FileName="ToyFactoryExample/Superman.cs" Line="38" Column="1" />
+      <File FileName="ToyFactoryExample/ToyCreator.cs" Line="15" Column="12" />
+      <File FileName="ToyFactoryExample/FiretruckCreator.cs" Line="18" Column="3" />
+      <File FileName="ToyFactoryExample/DuckCreator.cs" Line="1" Column="1" />
+      <File FileName="ToyFactoryExample/SupermanCreator.cs" Line="19" Column="2" />
+      <File FileName="ToyFactoryExample/Program.cs" Line="20" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
