@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -37,10 +37,10 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Prototype.cs" />
-    <Compile Include="ConcretePrototype1.cs" />
-    <Compile Include="ConcretePrototype2.cs" />
-    <Compile Include="Client.cs" />
+    <Compile Include="1-Prototype\Prototype.cs" />
+    <Compile Include="2-ConcretePrototype\ConcretePrototype1.cs" />
+    <Compile Include="2-ConcretePrototype\ConcretePrototype2.cs" />
+    <Compile Include="3-Client\Client.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
