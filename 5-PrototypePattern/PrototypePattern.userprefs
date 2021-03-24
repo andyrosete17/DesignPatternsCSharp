@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CourseImageExample/Program.cs">
+    <Files>
+      <File FileName="CourseImageExample/Cloneable.cs" Line="13" Column="34" />
+      <File FileName="CourseImageExample/CourseImage.cs" Line="30" Column="34" />
+      <File FileName="CourseImageExample/CourseImageMaker.cs" Line="26" Column="22" />
+      <File FileName="CourseImageExample/Program.cs" Line="23" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,7 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\5-PrototypePattern\CourseImageExample\bin\Debug\laptop.png
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\5-PrototypePattern\CourseImageExample\bin\Debug\CourseImageExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\5-PrototypePattern\CourseImageExample\bin\Debug\CourseImageExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\5-PrototypePattern\CourseImageExample\obj\x86\Debug\CourseImageExample.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\5-PrototypePattern\CourseImageExample\obj\x86\Debug\CourseImageExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\5-PrototypePattern\CourseImageExample\obj\x86\Debug\CourseImageExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\5-PrototypePattern\CourseImageExample\obj\x86\Debug\CourseImageExample.pdb
