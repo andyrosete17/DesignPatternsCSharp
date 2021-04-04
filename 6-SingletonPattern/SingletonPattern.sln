@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{44BF6553-A318-4E71-B765-316AA5FE094E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingExample", "LoggingExample\LoggingExample.csproj", "{917CE9EB-C00D-4D98-B1DD-05B5932E68CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44BF6553-A318-4E71-B765-316AA5FE094E}.Debug|x86.ActiveCfg = Debug|x86
+		{44BF6553-A318-4E71-B765-316AA5FE094E}.Debug|x86.Build.0 = Debug|x86
+		{44BF6553-A318-4E71-B765-316AA5FE094E}.Release|x86.ActiveCfg = Release|x86
+		{44BF6553-A318-4E71-B765-316AA5FE094E}.Release|x86.Build.0 = Release|x86
+		{917CE9EB-C00D-4D98-B1DD-05B5932E68CC}.Debug|x86.ActiveCfg = Debug|x86
+		{917CE9EB-C00D-4D98-B1DD-05B5932E68CC}.Debug|x86.Build.0 = Debug|x86
+		{917CE9EB-C00D-4D98-B1DD-05B5932E68CC}.Release|x86.ActiveCfg = Release|x86
+		{917CE9EB-C00D-4D98-B1DD-05B5932E68CC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = LoggingExample\LoggingExample.csproj
+	EndGlobalSection
+EndGlobal

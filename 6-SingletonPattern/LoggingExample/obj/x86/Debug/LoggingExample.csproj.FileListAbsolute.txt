@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\6-SingletonPattern\LoggingExample\bin\Debug\LoggingExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\6-SingletonPattern\LoggingExample\bin\Debug\LoggingExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\6-SingletonPattern\LoggingExample\obj\x86\Debug\LoggingExample.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\6-SingletonPattern\LoggingExample\obj\x86\Debug\LoggingExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\6-SingletonPattern\LoggingExample\obj\x86\Debug\LoggingExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\6-SingletonPattern\LoggingExample\obj\x86\Debug\LoggingExample.pdb
