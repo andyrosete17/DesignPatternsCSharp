@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\StructuralPattern\1-AdapterPattern\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\StructuralPattern\1-AdapterPattern\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\StructuralPattern\1-AdapterPattern\AdapterPattern\AdapterPattern\obj\x86\Debug\AdapterPattern.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\StructuralPattern\1-AdapterPattern\AdapterPattern\AdapterPattern\obj\x86\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\StructuralPattern\1-AdapterPattern\AdapterPattern\AdapterPattern\obj\x86\Debug\AdapterPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\StructuralPattern\1-AdapterPattern\AdapterPattern\AdapterPattern\obj\x86\Debug\AdapterPattern.pdb

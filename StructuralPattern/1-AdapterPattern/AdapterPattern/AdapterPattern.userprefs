@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StockHistoryExample/Program.cs">
+    <Files>
+      <File FileName="StockHistoryExample/StockHistoryDb.cs" Line="33" Column="3" />
+      <File FileName="StockHistoryExample/StockHistoryTarget.cs" Line="16" Column="28" />
+      <File FileName="StockHistoryExample/StockApp.cs" Line="26" Column="37" />
+      <File FileName="StockHistoryExample/StockHistoryAdapter.cs" Line="32" Column="16" />
+      <File FileName="StockHistoryExample/Program.cs" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

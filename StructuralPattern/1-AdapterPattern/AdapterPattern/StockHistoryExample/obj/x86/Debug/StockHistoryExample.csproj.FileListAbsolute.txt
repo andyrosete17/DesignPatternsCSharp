@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\StructuralPattern\1-AdapterPattern\AdapterPattern\StockHistoryExample\bin\Debug\StockHistoryExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\StructuralPattern\1-AdapterPattern\AdapterPattern\StockHistoryExample\bin\Debug\StockHistoryExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\StructuralPattern\1-AdapterPattern\AdapterPattern\StockHistoryExample\obj\x86\Debug\StockHistoryExample.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\StructuralPattern\1-AdapterPattern\AdapterPattern\StockHistoryExample\obj\x86\Debug\StockHistoryExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\StructuralPattern\1-AdapterPattern\AdapterPattern\StockHistoryExample\obj\x86\Debug\StockHistoryExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\StructuralPattern\1-AdapterPattern\AdapterPattern\StockHistoryExample\obj\x86\Debug\StockHistoryExample.pdb
