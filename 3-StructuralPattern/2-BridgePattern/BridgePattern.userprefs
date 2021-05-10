@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChartingLibraryExample/Program.cs">
+    <Files>
+      <File FileName="ChartingLibraryExample/Shape.cs" Line="18" Column="2" />
+      <File FileName="ChartingLibraryExample/DrawApi.cs" Line="18" Column="3" />
+      <File FileName="ChartingLibraryExample/OpenGLApi.cs" Line="23" Column="4" />
+      <File FileName="ChartingLibraryExample/SvgApi.cs" Line="21" Column="3" />
+      <File FileName="ChartingLibraryExample/Line.cs" Line="24" Column="16" />
+      <File FileName="ChartingLibraryExample/Square.cs" Line="28" Column="4" />
+      <File FileName="ChartingLibraryExample/Rectangle.cs" Line="22" Column="28" />
+      <File FileName="ChartingLibraryExample/Program.cs" Line="19" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

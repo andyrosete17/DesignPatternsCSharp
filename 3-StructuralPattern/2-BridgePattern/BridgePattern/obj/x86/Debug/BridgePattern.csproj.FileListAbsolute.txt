@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\2-BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\2-BridgePattern\BridgePattern\bin\Debug\BridgePattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\2-BridgePattern\BridgePattern\obj\x86\Debug\BridgePattern.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\2-BridgePattern\BridgePattern\obj\x86\Debug\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\2-BridgePattern\BridgePattern\obj\x86\Debug\BridgePattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\2-BridgePattern\BridgePattern\obj\x86\Debug\BridgePattern.pdb

@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\2-BridgePattern\ChartingLibraryExample\obj\x86\Debug\ChartingLibraryExample.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\2-BridgePattern\ChartingLibraryExample\obj\x86\Debug\ChartingLibraryExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\2-BridgePattern\ChartingLibraryExample\bin\Debug\ChartingLibraryExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\2-BridgePattern\ChartingLibraryExample\bin\Debug\ChartingLibraryExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\2-BridgePattern\ChartingLibraryExample\obj\x86\Debug\ChartingLibraryExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\2-BridgePattern\ChartingLibraryExample\obj\x86\Debug\ChartingLibraryExample.pdb

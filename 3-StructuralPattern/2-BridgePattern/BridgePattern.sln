@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern", "BridgePattern\BridgePattern.csproj", "{506BF2D3-E031-4CDB-90A0-D0F3779E99CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartingLibraryExample", "ChartingLibraryExample\ChartingLibraryExample.csproj", "{46C9C0E2-5E6A-4CA0-B174-84CF77A511DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartingLibraryExampleInterface", "ChartingLibraryExampleInterface\ChartingLibraryExampleInterface.csproj", "{B84CA5DE-76DB-4B93-847E-8B4AC63DB3B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{506BF2D3-E031-4CDB-90A0-D0F3779E99CA}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{506BF2D3-E031-4CDB-90A0-D0F3779E99CA}.Debug|x86.ActiveCfg = Debug|x86
+		{506BF2D3-E031-4CDB-90A0-D0F3779E99CA}.Debug|x86.Build.0 = Debug|x86
+		{506BF2D3-E031-4CDB-90A0-D0F3779E99CA}.Release|Any CPU.ActiveCfg = Release|x86
+		{506BF2D3-E031-4CDB-90A0-D0F3779E99CA}.Release|x86.ActiveCfg = Release|x86
+		{506BF2D3-E031-4CDB-90A0-D0F3779E99CA}.Release|x86.Build.0 = Release|x86
+		{46C9C0E2-5E6A-4CA0-B174-84CF77A511DD}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{46C9C0E2-5E6A-4CA0-B174-84CF77A511DD}.Debug|x86.ActiveCfg = Debug|x86
+		{46C9C0E2-5E6A-4CA0-B174-84CF77A511DD}.Debug|x86.Build.0 = Debug|x86
+		{46C9C0E2-5E6A-4CA0-B174-84CF77A511DD}.Release|Any CPU.ActiveCfg = Release|x86
+		{46C9C0E2-5E6A-4CA0-B174-84CF77A511DD}.Release|x86.ActiveCfg = Release|x86
+		{46C9C0E2-5E6A-4CA0-B174-84CF77A511DD}.Release|x86.Build.0 = Release|x86
+		{B84CA5DE-76DB-4B93-847E-8B4AC63DB3B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84CA5DE-76DB-4B93-847E-8B4AC63DB3B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84CA5DE-76DB-4B93-847E-8B4AC63DB3B1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B84CA5DE-76DB-4B93-847E-8B4AC63DB3B1}.Debug|x86.Build.0 = Debug|Any CPU
+		{B84CA5DE-76DB-4B93-847E-8B4AC63DB3B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84CA5DE-76DB-4B93-847E-8B4AC63DB3B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84CA5DE-76DB-4B93-847E-8B4AC63DB3B1}.Release|x86.ActiveCfg = Release|Any CPU
+		{B84CA5DE-76DB-4B93-847E-8B4AC63DB3B1}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67E9BC82-0E63-444E-B332-2EFAC5F37010}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ChartingLibraryExample\ChartingLibraryExample.csproj
+	EndGlobalSection
+EndGlobal
