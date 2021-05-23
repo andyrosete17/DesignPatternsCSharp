@@ -1,7 +1,7 @@
-﻿using static System.Console;
-
+﻿
 namespace SOLID._3LiskovSubstitutionPrinciple.LiskovBad
 {
+using static System.Console;
     // using a classic example
     public class Rectangle
     {

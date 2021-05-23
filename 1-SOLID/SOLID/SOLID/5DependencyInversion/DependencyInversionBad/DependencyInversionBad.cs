@@ -38,7 +38,7 @@ namespace SOLID._5DependencyInversion.DependencyInversionBad
     {
         public Research(Relationships relationships)
         {
-            // high-level: find all of john's children
+            // high-level: find all of john's children Yhe research class doesnt need to know what have relationship class
             var relations = relationships.Relations;
             foreach (var r in relations
               .Where(x => x.Item1.Name == "John"

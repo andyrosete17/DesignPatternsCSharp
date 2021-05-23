@@ -11,7 +11,7 @@ namespace SOLID._2__Open_Close_Principle.OpenCloseBad
 
     public enum Size
     {
-        Small, Medium, Large, Yuge
+        Small, Medium, Large, Huge
     }
 
     public class Product

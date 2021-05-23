@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SOLID._4InterfaceSegregation.InterfaceSegregationBad
+﻿namespace SOLID._4InterfaceSegregation.InterfaceSegregationBad
 {
     public class Document
     {
@@ -9,7 +7,9 @@ namespace SOLID._4InterfaceSegregation.InterfaceSegregationBad
     public interface IMachine
     {
         void Print(Document d);
+
         void Fax(Document d);
+
         void Scan(Document d);
     }
 
@@ -49,5 +49,4 @@ namespace SOLID._4InterfaceSegregation.InterfaceSegregationBad
             throw new System.NotImplementedException();
         }
     }
-
 }

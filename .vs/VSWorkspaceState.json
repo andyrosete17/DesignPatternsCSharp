@@ -1,17 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\4-AbstractFactoryPattern",
-    "\\4-AbstractFactoryPattern\\AbstractFactoryPattern",
-    "\\4-AbstractFactoryPattern\\AbstractFactoryPattern\\4-ConcreteFactory",
-    "\\4-AbstractFactoryPattern\\FoodchainExample",
-    "\\4-AbstractFactoryPattern\\FoodchainExample\\4-ConcreteFactory",
-    "\\4-AbstractFactoryPattern\\InterfaceAbstractFactory",
-    "\\4-AbstractFactoryPattern\\InterfaceAbstractFactory\\3-AbstractFactory",
-    "\\5-PrototypePattern",
-    "\\5-PrototypePattern\\PrototypePattern",
-    "\\5-PrototypePattern\\PrototypePattern\\3-Client"
+    "\\1-SOLID",
+    "\\1-SOLID\\SOLID",
+    "\\1-SOLID\\SOLID\\SOLID",
+    "\\1-SOLID\\SOLID\\SOLID\\1SingleResponsabilitySegregation",
+    "\\1-SOLID\\SOLID\\SOLID\\1SingleResponsabilitySegregation\\SingleResponsabilitySegBad"
   ],
-  "SelectedNode": "\\5-PrototypePattern\\PrototypePattern\\3-Client\\Client.cs",
+  "SelectedNode": "\\1-SOLID\\SOLID\\SOLID\\1SingleResponsabilitySegregation\\SingleResponsabilitySegBad\\SingleResponsabilitySegBad.cs",
   "PreviewInSolutionExplorer": false
 }

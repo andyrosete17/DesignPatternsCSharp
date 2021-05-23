@@ -1,12 +1,11 @@
-﻿using System;
-
-namespace SOLID._4InterfaceSegregation.InterfaceSegregationGood
+﻿namespace SOLID._4InterfaceSegregation.InterfaceSegregationGood
 {
+    using System;
+
     public class Document
     {
     }
 
-  
     public interface IPrinter
     {
         void Print(Document d);
@@ -21,7 +20,6 @@ namespace SOLID._4InterfaceSegregation.InterfaceSegregationGood
     {
         public void Print(Document d)
         {
-
         }
     }
 
@@ -40,13 +38,13 @@ namespace SOLID._4InterfaceSegregation.InterfaceSegregationGood
 
     public interface IMultiFunctionDevice : IPrinter, IScanner //
     {
-
     }
 
     public struct MultiFunctionMachine : IMultiFunctionDevice
     {
         // compose this out of several modules
         private IPrinter printer;
+
         private IScanner scanner;
 
         public MultiFunctionMachine(IPrinter printer, IScanner scanner)

@@ -1,11 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using SOLID._1__Single_Responsability_Segregation.SingleResponsabilitySegGood;
-using static System.Console;
-
-namespace SOLID.SingleResponsabilitySegGood
+﻿namespace SOLID.SingleResponsabilitySegGood
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Diagnostics;
+    using SOLID._1__Single_Responsability_Segregation.SingleResponsabilitySegGood;
+    using static System.Console;
+
     // just stores a couple of journal entries and ways of
     // working with them
     public class Journal
@@ -35,14 +35,14 @@ namespace SOLID.SingleResponsabilitySegGood
     {
         private static void Main(string[] args)
         {
-            var j = new Journal();
-            j.AddEntry("I cried today twice.");
-            j.AddEntry("I ate a bug.");
-            WriteLine(j);
+            var journal = new Journal();
+            journal.AddEntry("I cried today twice.");
+            journal.AddEntry("I ate a bug.");
+            WriteLine(journal);
 
-            var p = new Persistence();
+            var persistence = new Persistence();
             var filename = @"c:\Temp\journal.txt";
-            p.SaveToFile(j, filename);
+            persistence.SaveToFile(journal, filename);
             Process.Start(@"cmd.exe", filename);
         }
     }

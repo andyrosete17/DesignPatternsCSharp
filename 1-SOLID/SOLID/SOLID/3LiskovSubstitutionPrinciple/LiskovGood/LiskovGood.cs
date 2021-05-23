@@ -1,16 +1,16 @@
-﻿using static System.Console;
-
-namespace SOLID._3LiskovSubstitutionPrinciple.LiskovGood
+﻿namespace SOLID._3LiskovSubstitutionPrinciple.LiskovGood
 {
+    using static System.Console;
+
     public class Rectangle
     {
         // create virtual properties to set them in rectangle class so in case you use a rectangle for a square it would have the correct set properties
         public virtual int Width { get; set; }
+
         public virtual int Height { get; set; }
 
         public Rectangle()
         {
-
         }
 
         public Rectangle(int width, int height)
@@ -43,7 +43,7 @@ namespace SOLID._3LiskovSubstitutionPrinciple.LiskovGood
     {
         static public int Area(Rectangle r) => r.Width * r.Height;
 
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Rectangle rc = new Rectangle(2, 3);
             WriteLine($"{rc} has area {Area(rc)}");

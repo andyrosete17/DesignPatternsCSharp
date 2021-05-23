@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.IO;
-using static System.Console;
-
-
-namespace SOLID.SingleResponsabilitySegBad
+﻿namespace SOLID.SingleResponsabilitySegBad
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Diagnostics;
+    using System.IO;
+    using static System.Console;
+
     // just stores a couple of journal entries and ways of
     // working with them
     public class Journal
@@ -40,27 +39,25 @@ namespace SOLID.SingleResponsabilitySegBad
 
         public void Load(string filename)
         {
-
         }
 
         public void Load(Uri uri)
         {
-
         }
     }
 
     public class Demo
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            var j = new Journal();
-            j.AddEntry("I cried today twice.");
-            j.AddEntry("I ate a bug.");
-            WriteLine(j);
+            var journal = new Journal();
+            journal.AddEntry("I cried today twice.");
+            journal.AddEntry("I ate a bug.");
+            WriteLine(journal);
 
             var filename = @"c:\Temp\journal.txt";
-            j.Save(filename);
-            Process.Start(@"cmd.exe",filename);
+            journal.Save(filename);
+            Process.Start(@"cmd.exe", filename);
         }
     }
 }
