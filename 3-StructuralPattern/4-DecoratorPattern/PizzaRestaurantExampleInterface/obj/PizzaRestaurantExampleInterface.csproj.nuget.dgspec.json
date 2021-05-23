@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\3-StructuralPattern\\4-DecoratorPattern\\PizzaRestaurantExampleInterface\\PizzaRestaurantExampleInterface.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\3-StructuralPattern\\4-DecoratorPattern\\PizzaRestaurantExampleInterface\\PizzaRestaurantExampleInterface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\3-StructuralPattern\\4-DecoratorPattern\\PizzaRestaurantExampleInterface\\PizzaRestaurantExampleInterface.csproj",
+        "projectName": "PizzaRestaurantExampleInterface",
+        "projectPath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\3-StructuralPattern\\4-DecoratorPattern\\PizzaRestaurantExampleInterface\\PizzaRestaurantExampleInterface.csproj",
+        "packagesPath": "C:\\Users\\aros\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\3-StructuralPattern\\4-DecoratorPattern\\PizzaRestaurantExampleInterface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://gs2-tfs.pcinfra.net:81/DevelopmentPackages/nuget": {},
+          "http://gs2-tfs.pcinfra.net:81/Leaseplan/nuget": {},
+          "http://gs2-tfs.pcinfra.net:81/NuGetServer/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\4-DecoratorPattern\PizzaRestaurantExample\bin\Debug\PizzaRestaurantExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\4-DecoratorPattern\PizzaRestaurantExample\bin\Debug\PizzaRestaurantExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\4-DecoratorPattern\PizzaRestaurantExample\obj\x86\Debug\PizzaRestaurantExample.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\4-DecoratorPattern\PizzaRestaurantExample\obj\x86\Debug\PizzaRestaurantExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\4-DecoratorPattern\PizzaRestaurantExample\obj\x86\Debug\PizzaRestaurantExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\4-DecoratorPattern\PizzaRestaurantExample\obj\x86\Debug\PizzaRestaurantExample.pdb

@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\4-DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\4-DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\4-DecoratorPattern\DecoratorPattern\obj\x86\Debug\DecoratorPattern.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\4-DecoratorPattern\DecoratorPattern\obj\x86\Debug\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\4-DecoratorPattern\DecoratorPattern\obj\x86\Debug\DecoratorPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\4-DecoratorPattern\DecoratorPattern\obj\x86\Debug\DecoratorPattern.pdb
