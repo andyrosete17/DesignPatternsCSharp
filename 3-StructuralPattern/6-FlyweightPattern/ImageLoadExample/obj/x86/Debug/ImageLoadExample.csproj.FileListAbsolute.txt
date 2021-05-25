@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\ImageLoadExample\bin\Debug\ImageLoadExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\ImageLoadExample\bin\Debug\ImageLoadExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\ImageLoadExample\obj\x86\Debug\ImageLoadExample.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\ImageLoadExample\obj\x86\Debug\ImageLoadExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\ImageLoadExample\obj\x86\Debug\ImageLoadExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\ImageLoadExample\obj\x86\Debug\ImageLoadExample.pdb

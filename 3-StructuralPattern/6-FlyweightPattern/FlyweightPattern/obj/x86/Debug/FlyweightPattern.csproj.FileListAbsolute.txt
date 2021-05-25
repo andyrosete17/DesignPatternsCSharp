@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\FlyweightPattern\bin\Debug\FlyweightPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\FlyweightPattern\bin\Debug\FlyweightPattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\FlyweightPattern\obj\x86\Debug\FlyweightPattern.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\FlyweightPattern\obj\x86\Debug\FlyweightPattern.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\FlyweightPattern\obj\x86\Debug\FlyweightPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\FlyweightPattern\obj\x86\Debug\FlyweightPattern.pdb

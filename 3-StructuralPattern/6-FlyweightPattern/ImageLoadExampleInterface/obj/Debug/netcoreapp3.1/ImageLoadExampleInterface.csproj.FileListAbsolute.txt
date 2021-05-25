@@ -1,0 +1,13 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\ImageLoadExampleInterface\bin\Debug\netcoreapp3.1\ImageLoadExampleInterface.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\ImageLoadExampleInterface\bin\Debug\netcoreapp3.1\ImageLoadExampleInterface.deps.json
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\ImageLoadExampleInterface\bin\Debug\netcoreapp3.1\ImageLoadExampleInterface.runtimeconfig.json
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\ImageLoadExampleInterface\bin\Debug\netcoreapp3.1\ImageLoadExampleInterface.runtimeconfig.dev.json
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\ImageLoadExampleInterface\bin\Debug\netcoreapp3.1\ImageLoadExampleInterface.dll
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\ImageLoadExampleInterface\bin\Debug\netcoreapp3.1\ImageLoadExampleInterface.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\ImageLoadExampleInterface\obj\Debug\netcoreapp3.1\ImageLoadExampleInterface.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\ImageLoadExampleInterface\obj\Debug\netcoreapp3.1\ImageLoadExampleInterface.AssemblyInfoInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\ImageLoadExampleInterface\obj\Debug\netcoreapp3.1\ImageLoadExampleInterface.AssemblyInfo.cs
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\ImageLoadExampleInterface\obj\Debug\netcoreapp3.1\ImageLoadExampleInterface.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\ImageLoadExampleInterface\obj\Debug\netcoreapp3.1\ImageLoadExampleInterface.dll
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\ImageLoadExampleInterface\obj\Debug\netcoreapp3.1\ImageLoadExampleInterface.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\6-FlyweightPattern\ImageLoadExampleInterface\obj\Debug\netcoreapp3.1\ImageLoadExampleInterface.genruntimeconfig.cache

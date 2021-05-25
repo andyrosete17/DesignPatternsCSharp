@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\5-FacadePattern\MutualFundExample\bin\Debug\MutualFundExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\5-FacadePattern\MutualFundExample\bin\Debug\MutualFundExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\5-FacadePattern\MutualFundExample\obj\x86\Debug\MutualFundExample.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\5-FacadePattern\MutualFundExample\obj\x86\Debug\MutualFundExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\5-FacadePattern\MutualFundExample\obj\x86\Debug\MutualFundExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\5-FacadePattern\MutualFundExample\obj\x86\Debug\MutualFundExample.pdb

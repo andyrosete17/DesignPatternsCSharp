@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MutualFundExample/Program.cs">
+    <Files>
+      <File FileName="MutualFundExample/Subsystem/BankAccount.cs" Line="21" Column="3" />
+      <File FileName="MutualFundExample/Subsystem/CashAccount.cs" Line="8" Column="40" />
+      <File FileName="MutualFundExample/Subsystem/Equity.cs" Line="42" Column="1" />
+      <File FileName="MutualFundExample/Subsystem/Stock.cs" Line="18" Column="3" />
+      <File FileName="MutualFundExample/Subsystem/EquityFactory.cs" Line="42" Column="1" />
+      <File FileName="MutualFundExample/MutualFund.cs" Line="40" Column="3" />
+      <File FileName="MutualFundExample/Program.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="MutualFundExample" expanded="True">
+            <Node name="Subsystem" expanded="True" />
+            <Node name="Program.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
