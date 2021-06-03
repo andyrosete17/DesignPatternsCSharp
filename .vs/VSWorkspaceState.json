@@ -4,9 +4,13 @@
     "\\1-SOLID",
     "\\1-SOLID\\SOLID",
     "\\1-SOLID\\SOLID\\SOLID",
-    "\\1-SOLID\\SOLID\\SOLID\\1SingleResponsabilitySegregation",
-    "\\1-SOLID\\SOLID\\SOLID\\1SingleResponsabilitySegregation\\SingleResponsabilitySegBad"
+    "\\1-SOLID\\SOLID\\SOLID\\2OpenClosePrinciple",
+    "\\1-SOLID\\SOLID\\SOLID\\2OpenClosePrinciple\\OpenCloseBad",
+    "\\1-SOLID\\SOLID\\SOLID\\2OpenClosePrinciple\\OpenCloseGood",
+    "\\1-SOLID\\SOLID\\SOLID\\3LiskovSubstitutionPrinciple",
+    "\\1-SOLID\\SOLID\\SOLID\\3LiskovSubstitutionPrinciple\\LiskovBad",
+    "\\1-SOLID\\SOLID\\SOLID\\3LiskovSubstitutionPrinciple\\LiskovGood"
   ],
-  "SelectedNode": "\\1-SOLID\\SOLID\\SOLID\\1SingleResponsabilitySegregation\\SingleResponsabilitySegBad\\SingleResponsabilitySegBad.cs",
+  "SelectedNode": "\\1-SOLID\\SOLID\\SOLID\\5DependencyInversion\\DependencyInversionGood\\DependencyInversionGood.cs",
   "PreviewInSolutionExplorer": false
 }

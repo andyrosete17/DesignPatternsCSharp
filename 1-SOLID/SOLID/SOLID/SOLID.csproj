@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>SOLID._5DependencyInversion.DependencyInversionGood.Research</StartupObject>
+    <StartupObject>SOLID._3LiskovSubstitutionPrinciple.LiskovGood.Demo</StartupObject>
   </PropertyGroup>
 
 </Project>

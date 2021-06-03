@@ -4,7 +4,8 @@
 
     public class Rectangle
     {
-        // create virtual properties to set them in rectangle class so in case you use a rectangle for a square it would have the correct set properties
+        // create virtual properties to set them in rectangle class so in case you use a
+        // rectangle for a square it would have the correct set properties
         public virtual int Width { get; set; }
 
         public virtual int Height { get; set; }
