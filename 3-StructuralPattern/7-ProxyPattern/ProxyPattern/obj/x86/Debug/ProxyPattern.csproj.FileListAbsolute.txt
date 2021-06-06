@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\7-ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\7-ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\7-ProxyPattern\ProxyPattern\obj\x86\Debug\ProxyPattern.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\7-ProxyPattern\ProxyPattern\obj\x86\Debug\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\7-ProxyPattern\ProxyPattern\obj\x86\Debug\ProxyPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\7-ProxyPattern\ProxyPattern\obj\x86\Debug\ProxyPattern.pdb

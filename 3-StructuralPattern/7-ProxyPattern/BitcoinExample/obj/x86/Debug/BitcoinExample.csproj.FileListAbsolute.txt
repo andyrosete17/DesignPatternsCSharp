@@ -1,0 +1,7 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\7-ProxyPattern\BitcoinExample\obj\x86\Debug\BitcoinExample.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\7-ProxyPattern\BitcoinExample\obj\x86\Debug\BitcoinExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\7-ProxyPattern\BitcoinExample\bin\Debug\BitcoinExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\7-ProxyPattern\BitcoinExample\bin\Debug\BitcoinExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\7-ProxyPattern\BitcoinExample\obj\x86\Debug\BitcoinExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\7-ProxyPattern\BitcoinExample\obj\x86\Debug\BitcoinExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3-StructuralPattern\7-ProxyPattern\BitcoinExample\bin\Debug\BitcoinExample.exe.config

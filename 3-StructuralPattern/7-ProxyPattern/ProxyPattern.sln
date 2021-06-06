@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{FB427D48-EB31-46B8-B779-8BE0A2D0F480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitcoinExample", "BitcoinExample\BitcoinExample.csproj", "{70EC0759-A9B9-49C3-8E34-FA3DEFECF401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70EC0759-A9B9-49C3-8E34-FA3DEFECF401}.Debug|x86.ActiveCfg = Debug|x86
+		{70EC0759-A9B9-49C3-8E34-FA3DEFECF401}.Debug|x86.Build.0 = Debug|x86
+		{70EC0759-A9B9-49C3-8E34-FA3DEFECF401}.Release|x86.ActiveCfg = Release|x86
+		{70EC0759-A9B9-49C3-8E34-FA3DEFECF401}.Release|x86.Build.0 = Release|x86
+		{FB427D48-EB31-46B8-B779-8BE0A2D0F480}.Debug|x86.ActiveCfg = Debug|x86
+		{FB427D48-EB31-46B8-B779-8BE0A2D0F480}.Debug|x86.Build.0 = Debug|x86
+		{FB427D48-EB31-46B8-B779-8BE0A2D0F480}.Release|x86.ActiveCfg = Release|x86
+		{FB427D48-EB31-46B8-B779-8BE0A2D0F480}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = BitcoinExample\BitcoinExample.csproj
+	EndGlobalSection
+EndGlobal
