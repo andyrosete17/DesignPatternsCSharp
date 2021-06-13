@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\ChainOfResponsibilityPattern\PurchaseOrderingExample\bin\Debug\PurchaseOrderingExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\ChainOfResponsibilityPattern\PurchaseOrderingExample\bin\Debug\PurchaseOrderingExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\ChainOfResponsibilityPattern\PurchaseOrderingExample\obj\x86\Debug\PurchaseOrderingExample.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\ChainOfResponsibilityPattern\PurchaseOrderingExample\obj\x86\Debug\PurchaseOrderingExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\ChainOfResponsibilityPattern\PurchaseOrderingExample\obj\x86\Debug\PurchaseOrderingExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\ChainOfResponsibilityPattern\PurchaseOrderingExample\obj\x86\Debug\PurchaseOrderingExample.pdb

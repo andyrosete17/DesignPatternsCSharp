@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PurchaseOrderingExample/Program.cs">
+    <Files>
+      <File FileName="PurchaseOrderingExample/POApprover.cs" Line="17" Column="52" />
+      <File FileName="PurchaseOrderingExample/Manager.cs" Line="30" Column="32" />
+      <File FileName="PurchaseOrderingExample/VicePresident.cs" Line="26" Column="23" />
+      <File FileName="PurchaseOrderingExample/CEO.cs" Line="34" Column="5" />
+      <File FileName="PurchaseOrderingExample/POSystem.cs" Line="32" Column="3" />
+      <File FileName="PurchaseOrderingExample/Program.cs" Line="15" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="PurchaseOrderingExample" expanded="True">
+            <Node name="Program.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

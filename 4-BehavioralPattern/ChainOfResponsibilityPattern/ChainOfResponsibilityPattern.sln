@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{9D10B2A1-FE29-4727-9BA6-76A219D91321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurchaseOrderingExample", "PurchaseOrderingExample\PurchaseOrderingExample.csproj", "{1657C137-EDB5-465F-9559-7E428924230D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1657C137-EDB5-465F-9559-7E428924230D}.Debug|x86.ActiveCfg = Debug|x86
+		{1657C137-EDB5-465F-9559-7E428924230D}.Debug|x86.Build.0 = Debug|x86
+		{1657C137-EDB5-465F-9559-7E428924230D}.Release|x86.ActiveCfg = Release|x86
+		{1657C137-EDB5-465F-9559-7E428924230D}.Release|x86.Build.0 = Release|x86
+		{9D10B2A1-FE29-4727-9BA6-76A219D91321}.Debug|x86.ActiveCfg = Debug|x86
+		{9D10B2A1-FE29-4727-9BA6-76A219D91321}.Debug|x86.Build.0 = Debug|x86
+		{9D10B2A1-FE29-4727-9BA6-76A219D91321}.Release|x86.ActiveCfg = Release|x86
+		{9D10B2A1-FE29-4727-9BA6-76A219D91321}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = PurchaseOrderingExample\PurchaseOrderingExample.csproj
+	EndGlobalSection
+EndGlobal

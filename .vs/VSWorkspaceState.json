@@ -4,13 +4,13 @@
     "\\1-SOLID",
     "\\1-SOLID\\SOLID",
     "\\1-SOLID\\SOLID\\SOLID",
-    "\\1-SOLID\\SOLID\\SOLID\\4InterfaceSegregation",
-    "\\1-SOLID\\SOLID\\SOLID\\4InterfaceSegregation\\InterfaceSegregationBad",
-    "\\1-SOLID\\SOLID\\SOLID\\4InterfaceSegregation\\InterfaceSegregationGood",
+    "\\1-SOLID\\SOLID\\SOLID\\1SingleResponsabilitySegregation",
+    "\\1-SOLID\\SOLID\\SOLID\\1SingleResponsabilitySegregation\\SingleResponsabilitySegBad",
     "\\1-SOLID\\SOLID\\SOLID\\5DependencyInversion",
     "\\1-SOLID\\SOLID\\SOLID\\5DependencyInversion\\DependencyInversionBad",
-    "\\1-SOLID\\SOLID\\SOLID\\5DependencyInversion\\DependencyInversionGood"
+    "\\1-SOLID\\SOLID\\SOLID\\5DependencyInversion\\DependencyInversionGood",
+    "\\4-BehavioralPattern"
   ],
-  "SelectedNode": "\\1-SOLID\\SOLID\\SOLID\\5DependencyInversion\\DependencyInversionGood\\DependencyInversionGood.cs",
+  "SelectedNode": "\\4-BehavioralPattern\\ChainOfResponsibilityPattern",
   "PreviewInSolutionExplorer": false
 }

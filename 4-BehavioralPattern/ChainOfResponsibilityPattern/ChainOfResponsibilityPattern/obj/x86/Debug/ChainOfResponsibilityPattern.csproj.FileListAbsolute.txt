@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern\obj\x86\Debug\ChainOfResponsibilityPattern.csprojAssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern\obj\x86\Debug\ChainOfResponsibilityPattern.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern\obj\x86\Debug\ChainOfResponsibilityPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern\obj\x86\Debug\ChainOfResponsibilityPattern.pdb
