@@ -1,11 +1,11 @@
-using System;
-
-namespace FoodchainExample
+namespace FoodchainExample_1_Products
 {
-	/// <summary>
-	/// The concrete product class for herbivores in Africa.
-	/// </summary>
-	class Zebra : IHerbivore
-	{
-	}
+    using FoodchainExample_2_AbstractProduct;
+
+    /// <summary>
+    /// The concrete product class for herbivores in Africa.
+    /// </summary>
+    internal class Zebra : IHerbivore
+    {
+    }
 }

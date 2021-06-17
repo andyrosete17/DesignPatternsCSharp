@@ -1,13 +1,14 @@
-using System;
-
-namespace FoodchainExample
+namespace FoodchainExample_3_AbstractFactory
 {
-	/// <summary>
-	/// The abstract factory class.
-	/// </summary>
-	public interface IContinentFactory
-	{
-		 ICarnivore CreateCarnivore();
-		 IHerbivore CreateHerbivore();
-	}
+    using FoodchainExample_2_AbstractProduct;
+
+    /// <summary>
+    /// The abstract factory class.
+    /// </summary>
+    public interface IContinentFactory
+    {
+        ICarnivore CreateCarnivore();
+
+        IHerbivore CreateHerbivore();
+    }
 }

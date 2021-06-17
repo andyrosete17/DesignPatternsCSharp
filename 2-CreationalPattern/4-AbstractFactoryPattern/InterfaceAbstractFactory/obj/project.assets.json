@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\4-AbstractFactoryPattern\\InterfaceAbstractFactory\\FoodChainExampleInterface.csproj",
+      "projectUniqueName": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\2-CreationalPattern\\4-AbstractFactoryPattern\\InterfaceAbstractFactory\\FoodChainExampleInterface.csproj",
       "projectName": "FoodChainExampleInterface",
-      "projectPath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\4-AbstractFactoryPattern\\InterfaceAbstractFactory\\FoodChainExampleInterface.csproj",
+      "projectPath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\2-CreationalPattern\\4-AbstractFactoryPattern\\InterfaceAbstractFactory\\FoodChainExampleInterface.csproj",
       "packagesPath": "C:\\Users\\aros\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\4-AbstractFactoryPattern\\InterfaceAbstractFactory\\obj\\",
+      "outputPath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\2-CreationalPattern\\4-AbstractFactoryPattern\\InterfaceAbstractFactory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aros\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
       }
     }
   }

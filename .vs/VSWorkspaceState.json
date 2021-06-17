@@ -6,11 +6,12 @@
     "\\1-SOLID\\SOLID\\SOLID",
     "\\1-SOLID\\SOLID\\SOLID\\1SingleResponsabilitySegregation",
     "\\1-SOLID\\SOLID\\SOLID\\1SingleResponsabilitySegregation\\SingleResponsabilitySegBad",
-    "\\1-SOLID\\SOLID\\SOLID\\5DependencyInversion",
-    "\\1-SOLID\\SOLID\\SOLID\\5DependencyInversion\\DependencyInversionBad",
-    "\\1-SOLID\\SOLID\\SOLID\\5DependencyInversion\\DependencyInversionGood",
+    "\\2-CreationalPattern",
+    "\\2-CreationalPattern\\4-AbstractFactoryPattern",
+    "\\2-CreationalPattern\\4-AbstractFactoryPattern\\InterfaceAbstractFactory",
+    "\\2-CreationalPattern\\4-AbstractFactoryPattern\\InterfaceAbstractFactory\\5-Client",
     "\\4-BehavioralPattern"
   ],
-  "SelectedNode": "\\4-BehavioralPattern\\ChainOfResponsibilityPattern",
+  "SelectedNode": "\\2-CreationalPattern\\4-AbstractFactoryPattern\\InterfaceAbstractFactory\\1-Products\\Zebra.cs",
   "PreviewInSolutionExplorer": false
 }

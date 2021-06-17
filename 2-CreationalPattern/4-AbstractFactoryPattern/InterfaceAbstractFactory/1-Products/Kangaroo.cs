@@ -1,11 +1,11 @@
-using System;
-
-namespace FoodchainExample
+namespace FoodchainExample_1_Products
 {
-	/// <summary>
-	/// The concrete product class for herbivores in Australia.
-	/// </summary>
-	class Kangaroo : IHerbivore
-	{
-	}
+    using FoodchainExample_2_AbstractProduct;
+
+    /// <summary>
+    /// The concrete product class for herbivores in Australia.
+    /// </summary>
+    internal class Kangaroo : IHerbivore
+    {
+    }
 }

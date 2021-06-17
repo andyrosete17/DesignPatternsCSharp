@@ -1,7 +1,8 @@
-using System;
-
-namespace FoodchainExample
+namespace FoodchainExample_1_Products
 {
+    using System;
+    using FoodchainExample_2_AbstractProduct;
+
     /// <summary>
     /// The concrete product class for carnivores in Australia.
     /// </summary>
