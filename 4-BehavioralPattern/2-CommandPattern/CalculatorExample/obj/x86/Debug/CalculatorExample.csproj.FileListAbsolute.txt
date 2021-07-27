@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CalculatorExample\obj\x86\Debug\CalculatorExample.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CalculatorExample\obj\x86\Debug\CalculatorExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CalculatorExample\bin\Debug\CalculatorExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CalculatorExample\bin\Debug\CalculatorExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CalculatorExample\obj\x86\Debug\CalculatorExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CalculatorExample\obj\x86\Debug\CalculatorExample.pdb

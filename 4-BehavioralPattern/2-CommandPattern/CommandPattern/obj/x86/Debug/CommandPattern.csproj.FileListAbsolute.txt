@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CommandPattern\bin\Debug\CommandPattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CommandPattern\obj\x86\Debug\CommandPattern.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CommandPattern\obj\x86\Debug\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CommandPattern\obj\x86\Debug\CommandPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CommandPattern\obj\x86\Debug\CommandPattern.pdb

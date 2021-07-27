@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorExample/Calculator.cs">
+    <Files>
+      <File FileName="CalculatorExample/MathLib.cs" Line="30" Column="10" />
+      <File FileName="CalculatorExample/AbstractOperation.cs" Line="13" Column="34" />
+      <File FileName="CalculatorExample/Operation.cs" Line="54" Column="4" />
+      <File FileName="CalculatorExample/InteractiveShell.cs" Line="56" Column="6" />
+      <File FileName="CalculatorExample/Calculator.cs" Line="5" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="CalculatorExample" expanded="True">
+            <Node name="Calculator.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
