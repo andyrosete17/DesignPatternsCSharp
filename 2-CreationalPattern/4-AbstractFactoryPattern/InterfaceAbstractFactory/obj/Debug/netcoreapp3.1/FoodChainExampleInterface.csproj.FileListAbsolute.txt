@@ -10,7 +10,6 @@ C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-A
 C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-AbstractFactoryPattern\InterfaceAbstractFactory\obj\Debug\netcoreapp3.1\FoodChainExampleInterface.dll
 C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-AbstractFactoryPattern\InterfaceAbstractFactory\obj\Debug\netcoreapp3.1\FoodChainExampleInterface.pdb
 C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-AbstractFactoryPattern\InterfaceAbstractFactory\obj\Debug\netcoreapp3.1\FoodChainExampleInterface.genruntimeconfig.cache
-C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\4-AbstractFactoryPattern\InterfaceAbstractFactory\obj\Debug\netcoreapp3.1\FoodChainExampleInterface.csprojAssemblyReference.cache
 C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\4-AbstractFactoryPattern\InterfaceAbstractFactory\obj\Debug\netcoreapp3.1\FoodChainExampleInterface.AssemblyInfoInputs.cache
 C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\4-AbstractFactoryPattern\InterfaceAbstractFactory\obj\Debug\netcoreapp3.1\FoodChainExampleInterface.AssemblyInfo.cs
 C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\4-AbstractFactoryPattern\InterfaceAbstractFactory\obj\Debug\netcoreapp3.1\FoodChainExampleInterface.csproj.CoreCompileInputs.cache
@@ -23,3 +22,4 @@ C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-C
 C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\4-AbstractFactoryPattern\InterfaceAbstractFactory\bin\Debug\netcoreapp3.1\FoodChainExampleInterface.dll
 C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\4-AbstractFactoryPattern\InterfaceAbstractFactory\bin\Debug\netcoreapp3.1\FoodChainExampleInterface.pdb
 C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\4-AbstractFactoryPattern\InterfaceAbstractFactory\obj\Debug\netcoreapp3.1\FoodChainExampleInterface.genruntimeconfig.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\4-AbstractFactoryPattern\InterfaceAbstractFactory\obj\Debug\netcoreapp3.1\FoodChainExampleInterface.csproj.AssemblyReference.cache

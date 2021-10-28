@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fklmMMd3AFDISarWHGjLpqo7kNXjLiMJRjSX0N2fXhu1wmvPCKUGQfdk4gZKoeytXCfWNKj6d1+Cyp8umi5maQ==",
+  "dgSpecHash": "Kp8ehlAOqUj1o5Que+Rp+ohjykjgdjGhFQJBlk/F95IXIGHwDyajVEHyn7G1fKICGw65wYRvZTJxs8qZ5Ts0lQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\2-CreationalPattern\\2-BuilderPattern\\BuilderPattern\\FastfoodExampleInterface\\FastfoodExampleInterface.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aros\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "d+CKlf7PgZ12uYYtwGxN8SzGUvEFtoJMOqbArWZPoZIZlPTMLoqQHitZgFzzWm1kLThbqBQbMUimM7ZLpofG7w==",
+  "dgSpecHash": "nxqNVxbPX51oQR1vKZvWsSDVLDjq5sYOAHeTQaisKFXwHaauGgs3xZ8wh9MldmQE4OY8AU2R0ebN5PI6AHcvBA==",
   "success": true,
   "projectFilePath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\2-CreationalPattern\\4-AbstractFactoryPattern\\InterfaceAbstractFactory\\FoodChainExampleInterface.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aros\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
   "logs": []
 }

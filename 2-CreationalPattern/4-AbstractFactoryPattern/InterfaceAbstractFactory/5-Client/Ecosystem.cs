@@ -8,7 +8,7 @@ namespace FoodchainExample_5_Client
     /// </summary>
     internal class Ecosystem
     {
-        // products
+        // abstract products
         private IHerbivore _herbivore;
 
         private ICarnivore _carnivore;

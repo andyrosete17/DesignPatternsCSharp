@@ -1,16 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\2-CreationalPattern",
-    "\\2-CreationalPattern\\4-AbstractFactoryPattern",
-    "\\2-CreationalPattern\\4-AbstractFactoryPattern\\InterfaceAbstractFactory",
-    "\\2-CreationalPattern\\4-AbstractFactoryPattern\\InterfaceAbstractFactory\\2-AbstractProduct",
-    "\\3-StructuralPattern",
-    "\\3-StructuralPattern\\7-ProxyPattern",
-    "\\3-StructuralPattern\\7-ProxyPattern\\ProxyPattern",
-    "\\3-StructuralPattern\\7-ProxyPattern\\ProxyPattern\\3-Proxy",
-    "\\3-StructuralPattern\\7-ProxyPattern\\ProxyPattern\\4-Client"
+    ""
   ],
-  "SelectedNode": "\\2-CreationalPattern\\4-AbstractFactoryPattern\\InterfaceAbstractFactory\\2-AbstractProduct\\ICarnivore.cs",
+  "SelectedNode": "\\AbstractFactoryPattern.sln",
   "PreviewInSolutionExplorer": false
 }
