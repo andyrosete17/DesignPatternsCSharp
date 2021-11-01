@@ -29,7 +29,7 @@ namespace FastfoodExample
         /// </summary>
         public void BuildDessert()
         {
-            _menu.Add("Dessert");
+            _menu.Add("Vegan Dessert");
         }
 
         /// <summary>
