@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\3- FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
+      "projectUniqueName": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\2-CreationalPattern\\3- FactoryPattern\\FactoryPattern1\\FactoryPattern.csproj",
       "projectName": "FactoryPattern",
-      "projectPath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\3- FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
+      "projectPath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\2-CreationalPattern\\3- FactoryPattern\\FactoryPattern1\\FactoryPattern.csproj",
       "packagesPath": "C:\\Users\\aros\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\3- FactoryPattern\\FactoryPattern\\obj\\",
+      "outputPath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\2-CreationalPattern\\3- FactoryPattern\\FactoryPattern1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aros\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -35,6 +35,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -46,6 +47,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -56,12 +58,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.18, 3.1.18]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

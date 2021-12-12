@@ -4,3 +4,9 @@ C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-B
 C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-BuilderPattern\BuilderPattern\BuilderPattern\obj\x86\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
 C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-BuilderPattern\BuilderPattern\BuilderPattern\obj\x86\Debug\BuilderPattern.exe
 C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-BuilderPattern\BuilderPattern\BuilderPattern\obj\x86\Debug\BuilderPattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\2-BuilderPattern\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\2-BuilderPattern\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\2-BuilderPattern\BuilderPattern\BuilderPattern\obj\x86\Debug\BuilderPattern.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\2-BuilderPattern\BuilderPattern\BuilderPattern\obj\x86\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\2-BuilderPattern\BuilderPattern\BuilderPattern\obj\x86\Debug\BuilderPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\2-BuilderPattern\BuilderPattern\BuilderPattern\obj\x86\Debug\BuilderPattern.pdb

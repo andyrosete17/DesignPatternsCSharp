@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "V/Zy1s0rF7+JMEhEKs4tRi9f8xGndkY7sqFpJVHf55gVnKqJvAur2oEy3a2UjuJz+Te0rcBw/qbwQmOsEwArbA==",
+  "dgSpecHash": "iUDaE8ZORo2pIlGU1H3u6hzKPo3pLq/WGQZ0X+Ptkrh9U+VlJ9yFH8zuuKUni9elNW0sSXzeOshf4FoR2/f5JQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\3- FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\2-CreationalPattern\\3- FactoryPattern\\FactoryPattern1\\FactoryPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aros\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
   "logs": []
 }

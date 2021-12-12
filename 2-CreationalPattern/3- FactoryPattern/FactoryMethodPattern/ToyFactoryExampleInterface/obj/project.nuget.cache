@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wwUSqXV85GhNqcwjpMp9/yjQBN59+w9R4vqaxcqUKnzLVCqAqxjd4myPy/V909MapGvIoGT+wqyRxjI1ISV3GQ==",
+  "dgSpecHash": "RRViXKJeu/9MCMC3hgN92aYCsQVrzCZf0SbGe2eBuhcSSXr07TYNzjPDy1nf8rAI9ehYQOqtNJL38BlVqh/4lA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\3- FactoryPattern\\FactoryMethodPattern\\ToyFactoryExampleInterface\\ToyFactoryExampleInterface.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\2-CreationalPattern\\3- FactoryPattern\\FactoryMethodPattern\\ToyFactoryExampleInterface\\ToyFactoryExampleInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aros\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
   "logs": []
 }

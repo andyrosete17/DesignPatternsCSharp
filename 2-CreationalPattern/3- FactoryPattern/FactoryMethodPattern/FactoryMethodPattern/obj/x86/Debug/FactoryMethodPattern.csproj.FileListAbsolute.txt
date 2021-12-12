@@ -4,3 +4,9 @@ C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- 
 C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.csproj.CoreCompileInputs.cache
 C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.exe
 C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\3- FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\3- FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\3- FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\3- FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\3- FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\3- FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\3- FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.pdb
