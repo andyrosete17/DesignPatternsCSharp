@@ -1,7 +1,7 @@
 namespace PurchaseOrderingInterface_1_Handler
 {
     /// <summary>
-    /// The abstract POApprover handler class.
+    /// The  IPOApprover interface  handler class.
     /// </summary>
     public interface  IPOApprover
     {
