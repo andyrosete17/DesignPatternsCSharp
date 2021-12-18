@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h+geuw+TnhQhse7P9nZNjV1s5e/d58lAHQvYgV5OkBhVbDHkSfWIrfRiJedAQYWiVIHOpqtkHGd1hLW1DR0ohg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\4-BehavioralPattern\\1-ChainOfResponsibilityPattern\\PurchaseOrderingInterface\\PurchaseOrderingInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aros\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
