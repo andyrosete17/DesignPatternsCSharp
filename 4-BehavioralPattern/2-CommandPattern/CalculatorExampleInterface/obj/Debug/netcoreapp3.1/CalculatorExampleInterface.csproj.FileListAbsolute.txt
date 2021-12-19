@@ -1,0 +1,13 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CalculatorExampleInterface\bin\Debug\netcoreapp3.1\CalculatorExampleInterface.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CalculatorExampleInterface\bin\Debug\netcoreapp3.1\CalculatorExampleInterface.deps.json
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CalculatorExampleInterface\bin\Debug\netcoreapp3.1\CalculatorExampleInterface.runtimeconfig.json
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CalculatorExampleInterface\bin\Debug\netcoreapp3.1\CalculatorExampleInterface.runtimeconfig.dev.json
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CalculatorExampleInterface\bin\Debug\netcoreapp3.1\CalculatorExampleInterface.dll
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CalculatorExampleInterface\bin\Debug\netcoreapp3.1\CalculatorExampleInterface.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CalculatorExampleInterface\obj\Debug\netcoreapp3.1\CalculatorExampleInterface.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CalculatorExampleInterface\obj\Debug\netcoreapp3.1\CalculatorExampleInterface.AssemblyInfoInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CalculatorExampleInterface\obj\Debug\netcoreapp3.1\CalculatorExampleInterface.AssemblyInfo.cs
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CalculatorExampleInterface\obj\Debug\netcoreapp3.1\CalculatorExampleInterface.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CalculatorExampleInterface\obj\Debug\netcoreapp3.1\CalculatorExampleInterface.dll
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CalculatorExampleInterface\obj\Debug\netcoreapp3.1\CalculatorExampleInterface.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\2-CommandPattern\CalculatorExampleInterface\obj\Debug\netcoreapp3.1\CalculatorExampleInterface.genruntimeconfig.cache

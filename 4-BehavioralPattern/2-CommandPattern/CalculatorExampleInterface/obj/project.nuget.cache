@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x55/2oniKCDFwR+J+q7FrcidySyQ+PirjUVzz5TfwbXtBVZjTjUQYlm3BT92LGzvbiVi52su/lM3V1KfkRUikg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\4-BehavioralPattern\\2-CommandPattern\\CalculatorExampleInterface\\CalculatorExampleInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aros\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
