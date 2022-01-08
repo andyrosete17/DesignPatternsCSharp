@@ -16,10 +16,10 @@ namespace CalculatorExampleInteface._5_Client
         /// </summary>
         public void Run()
         {
-            // instantiate math library
+            // instantiate math library (receiver)
             var mathlib = new MathLib();
 
-            // instantiate calculator
+            // instantiate calculator (Invoker)
             var calculator = new Calculator();
 
             // show help
@@ -52,10 +52,10 @@ namespace CalculatorExampleInteface._5_Client
                     }
                     else
                     {
-                        // create new command
-                        IAbstractOperation operation = new Operation(mathlib, op, arg);
+                        // create new command with instantiating the concrete command with the receiver instance
+                        IOperations operation = new Operation(mathlib, op, arg);
 
-                        // pass it on to the calculator
+                        // pass it on to the calculator hands the command over the invoker object
                         calculator.Invoke(operation);
                     }
                 }

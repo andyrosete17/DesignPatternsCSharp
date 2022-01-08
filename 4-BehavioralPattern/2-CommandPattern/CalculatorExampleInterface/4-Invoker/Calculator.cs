@@ -9,13 +9,13 @@ namespace CalculatorExampleInteface._4_Invoker
     public class Calculator
     {
         // the undo command stack
-        protected Stack<IAbstractOperation> undoStack = new Stack<IAbstractOperation>();
+        protected Stack<IOperations> undoStack = new Stack<IOperations>();
 
         /// <summary>
         /// Invoke the specified operation.
         /// </summary>
         /// <param name="operation">the operation to invoke.</param>
-        public void Invoke(IAbstractOperation operation)
+        public void Invoke(IOperations operation)
         {
             operation.Execute();
             undoStack.Push(operation);

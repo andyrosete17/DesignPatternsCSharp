@@ -3,7 +3,7 @@ namespace CalculatorExampleInteface._1_Command
     /// <summary>
     /// The operation command class
     /// </summary>
-    public interface IAbstractOperation
+    public interface IOperations
     {
         /// <summary>
         /// Execute the operation.
@@ -14,6 +14,6 @@ namespace CalculatorExampleInteface._1_Command
         /// Gets the inverse of the operation.
         /// </summary>
         /// <value>The inverse of the operation.</value>
-         IAbstractOperation Inverse { get; }
+        IOperations Inverse { get; }
     }
 }

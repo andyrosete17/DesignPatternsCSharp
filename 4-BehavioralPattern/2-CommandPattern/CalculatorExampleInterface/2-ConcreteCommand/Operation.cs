@@ -7,7 +7,7 @@ namespace CalculatorExampleInteface._2_ConcreteCommand
     /// <summary>
     /// The concrete operation command class.
     /// </summary>
-    public class Operation : IAbstractOperation
+    public class Operation : IOperations
     {
         // the math library to use (the receiver)
         protected MathLib _mathlib = null;
@@ -63,7 +63,7 @@ namespace CalculatorExampleInteface._2_ConcreteCommand
         /// Gets the inverse of the operation.
         /// </summary>
         /// <value>The inverse of the operation.</value>
-        public  IAbstractOperation Inverse
+        public IOperations Inverse
         {
             get
             {
