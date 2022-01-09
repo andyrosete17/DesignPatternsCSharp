@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RpnExample/Evaluator.cs">
+    <Files>
+      <File FileName="RpnExample/RpnExpression.cs" Line="15" Column="22" />
+      <File FileName="RpnExample/Number.cs" Line="31" Column="3" />
+      <File FileName="RpnExample/Add.cs" Line="32" Column="49" />
+      <File FileName="RpnExample/Substract.cs" Line="32" Column="30" />
+      <File FileName="RpnExample/Multiply.cs" Line="25" Column="3" />
+      <File FileName="RpnExample/Evaluator.cs" Line="40" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="RpnExample" expanded="True">
+            <Node name="Evaluator.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

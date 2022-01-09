@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\3-InterpreterPattern\InterpreterPattern\bin\Debug\InterpreterPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\3-InterpreterPattern\InterpreterPattern\bin\Debug\InterpreterPattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\3-InterpreterPattern\InterpreterPattern\obj\x86\Debug\InterpreterPattern.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\3-InterpreterPattern\InterpreterPattern\obj\x86\Debug\InterpreterPattern.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\3-InterpreterPattern\InterpreterPattern\obj\x86\Debug\InterpreterPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\3-InterpreterPattern\InterpreterPattern\obj\x86\Debug\InterpreterPattern.pdb

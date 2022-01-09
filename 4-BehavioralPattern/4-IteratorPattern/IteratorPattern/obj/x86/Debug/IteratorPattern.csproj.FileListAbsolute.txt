@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\4-IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\4-IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\4-IteratorPattern\IteratorPattern\obj\x86\Debug\IteratorPattern.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\4-IteratorPattern\IteratorPattern\obj\x86\Debug\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\4-IteratorPattern\IteratorPattern\obj\x86\Debug\IteratorPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\4-IteratorPattern\IteratorPattern\obj\x86\Debug\IteratorPattern.pdb

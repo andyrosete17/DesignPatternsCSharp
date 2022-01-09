@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\4-IteratorPattern\MyCollectionExample\bin\Debug\MyCollectionExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\4-IteratorPattern\MyCollectionExample\bin\Debug\MyCollectionExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\4-IteratorPattern\MyCollectionExample\obj\x86\Debug\MyCollectionExample.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\4-IteratorPattern\MyCollectionExample\obj\x86\Debug\MyCollectionExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\4-IteratorPattern\MyCollectionExample\obj\x86\Debug\MyCollectionExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\4-IteratorPattern\MyCollectionExample\obj\x86\Debug\MyCollectionExample.pdb

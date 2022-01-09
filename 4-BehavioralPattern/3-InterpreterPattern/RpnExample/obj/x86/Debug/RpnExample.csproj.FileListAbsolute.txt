@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\3-InterpreterPattern\RpnExample\bin\Debug\RpnExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\3-InterpreterPattern\RpnExample\bin\Debug\RpnExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\3-InterpreterPattern\RpnExample\obj\x86\Debug\RpnExample.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\3-InterpreterPattern\RpnExample\obj\x86\Debug\RpnExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\3-InterpreterPattern\RpnExample\obj\x86\Debug\RpnExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\3-InterpreterPattern\RpnExample\obj\x86\Debug\RpnExample.pdb
