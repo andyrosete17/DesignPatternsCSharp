@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DocumentEditorExample/Program.cs">
+    <Files>
+      <File FileName="DocumentEditorExample/Document.cs" Line="69" Column="16" />
+      <File FileName="DocumentEditorExample/DocumentHistory.cs" Line="41" Column="35" />
+      <File FileName="DocumentEditorExample/Program.cs" Line="31" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="DocumentEditorExample" expanded="True">
+            <Node name="Program.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

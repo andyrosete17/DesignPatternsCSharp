@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "REU2aBkPpJaWEXNInFbFNJcL58Y+nfb3/cje1V71tjxxxjVlqRRlmObpzEbZ7VcT13RtwVRdHdusFoBRKdokQQ==",
+  "dgSpecHash": "ZLAEzcJKWrB7giP5CA89OYOyIXsFGBH4lFr6b8PjiGXewWhHx9MZaGiD5xKD8NxqEt3FH+YevDqImwIBmxXhJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\5-PrototypePattern\\CourseImageExampleInterface\\CourseImageExampleInterface.csproj",
+  "projectFilePath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\2-CreationalPattern\\5-PrototypePattern\\CourseImageExampleInterface\\CourseImageExampleInterface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aros\\.nuget\\packages\\microsoft.netcore.platforms\\6.0.0-preview.2.21154.6\\microsoft.netcore.platforms.6.0.0-preview.2.21154.6.nupkg.sha512",
     "C:\\Users\\aros\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0-preview.2.21154.6\\microsoft.win32.systemevents.6.0.0-preview.2.21154.6.nupkg.sha512",
-    "C:\\Users\\aros\\.nuget\\packages\\system.drawing.common\\6.0.0-preview.2.21154.6\\system.drawing.common.6.0.0-preview.2.21154.6.nupkg.sha512"
+    "C:\\Users\\aros\\.nuget\\packages\\system.drawing.common\\6.0.0-preview.2.21154.6\\system.drawing.common.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "C:\\Users\\aros\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
   ],
   "logs": []
 }

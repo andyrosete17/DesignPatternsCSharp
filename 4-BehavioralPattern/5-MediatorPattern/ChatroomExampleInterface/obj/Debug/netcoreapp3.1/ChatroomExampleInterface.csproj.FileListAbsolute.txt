@@ -1,0 +1,13 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\ChatroomExampleInterface\obj\Debug\netcoreapp3.1\ChatroomExampleInterface.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\ChatroomExampleInterface\obj\Debug\netcoreapp3.1\ChatroomExampleInterface.AssemblyInfoInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\ChatroomExampleInterface\obj\Debug\netcoreapp3.1\ChatroomExampleInterface.AssemblyInfo.cs
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\ChatroomExampleInterface\obj\Debug\netcoreapp3.1\ChatroomExampleInterface.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\ChatroomExampleInterface\bin\Debug\netcoreapp3.1\ChatroomExampleInterface.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\ChatroomExampleInterface\bin\Debug\netcoreapp3.1\ChatroomExampleInterface.deps.json
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\ChatroomExampleInterface\bin\Debug\netcoreapp3.1\ChatroomExampleInterface.runtimeconfig.json
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\ChatroomExampleInterface\bin\Debug\netcoreapp3.1\ChatroomExampleInterface.runtimeconfig.dev.json
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\ChatroomExampleInterface\bin\Debug\netcoreapp3.1\ChatroomExampleInterface.dll
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\ChatroomExampleInterface\bin\Debug\netcoreapp3.1\ChatroomExampleInterface.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\ChatroomExampleInterface\obj\Debug\netcoreapp3.1\ChatroomExampleInterface.dll
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\ChatroomExampleInterface\obj\Debug\netcoreapp3.1\ChatroomExampleInterface.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\ChatroomExampleInterface\obj\Debug\netcoreapp3.1\ChatroomExampleInterface.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\MediatorPattern\obj\x86\Debug\MediatorPattern.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\MediatorPattern\obj\x86\Debug\MediatorPattern.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\MediatorPattern\bin\Debug\MediatorPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\MediatorPattern\bin\Debug\MediatorPattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\MediatorPattern\obj\x86\Debug\MediatorPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\MediatorPattern\obj\x86\Debug\MediatorPattern.pdb

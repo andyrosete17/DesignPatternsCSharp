@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ldPgqOiyVwQWIEqz9gWPTdVcSrZC5vu275TfarMLUp9txpHXU6x7ZMHBCXsqbRluPRiUJQnBVZaINikmkCqPoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\4-BehavioralPattern\\5-MediatorPattern\\ChatroomExampleInterface\\ChatroomExampleInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aros\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

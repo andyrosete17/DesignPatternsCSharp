@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\6-MementoPattern\DocumentEditorExample\bin\Debug\DocumentEditorExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\6-MementoPattern\DocumentEditorExample\bin\Debug\DocumentEditorExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\6-MementoPattern\DocumentEditorExample\obj\x86\Debug\DocumentEditorExample.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\6-MementoPattern\DocumentEditorExample\obj\x86\Debug\DocumentEditorExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\6-MementoPattern\DocumentEditorExample\obj\x86\Debug\DocumentEditorExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\6-MementoPattern\DocumentEditorExample\obj\x86\Debug\DocumentEditorExample.pdb

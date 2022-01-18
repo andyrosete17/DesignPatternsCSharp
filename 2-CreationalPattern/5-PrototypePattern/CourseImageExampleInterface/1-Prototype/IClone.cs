@@ -1,4 +1,4 @@
-namespace CourseImageExample
+namespace CourseImageExampleInterface_1_Prototype
 {
     /// <summary>
     /// The interface prototype class

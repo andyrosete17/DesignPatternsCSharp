@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\ChatroomExample\bin\Debug\ChatroomExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\ChatroomExample\bin\Debug\ChatroomExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\ChatroomExample\obj\x86\Debug\ChatroomExample.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\ChatroomExample\obj\x86\Debug\ChatroomExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\ChatroomExample\obj\x86\Debug\ChatroomExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\5-MediatorPattern\ChatroomExample\obj\x86\Debug\ChatroomExample.pdb

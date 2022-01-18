@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\5-PrototypePattern\\CourseImageExampleInterface\\CourseImageExampleInterface.csproj": {}
+    "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\2-CreationalPattern\\5-PrototypePattern\\CourseImageExampleInterface\\CourseImageExampleInterface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\5-PrototypePattern\\CourseImageExampleInterface\\CourseImageExampleInterface.csproj": {
+    "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\2-CreationalPattern\\5-PrototypePattern\\CourseImageExampleInterface\\CourseImageExampleInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\5-PrototypePattern\\CourseImageExampleInterface\\CourseImageExampleInterface.csproj",
+        "projectUniqueName": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\2-CreationalPattern\\5-PrototypePattern\\CourseImageExampleInterface\\CourseImageExampleInterface.csproj",
         "projectName": "CourseImageExampleInterface",
-        "projectPath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\5-PrototypePattern\\CourseImageExampleInterface\\CourseImageExampleInterface.csproj",
+        "projectPath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\2-CreationalPattern\\5-PrototypePattern\\CourseImageExampleInterface\\CourseImageExampleInterface.csproj",
         "packagesPath": "C:\\Users\\aros\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\5-PrototypePattern\\CourseImageExampleInterface\\obj\\",
+        "outputPath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\2-CreationalPattern\\5-PrototypePattern\\CourseImageExampleInterface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aros\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "System.Drawing.Common": {
               "target": "Package",
@@ -56,12 +58,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.18, 3.1.18]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

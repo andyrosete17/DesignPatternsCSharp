@@ -4,3 +4,9 @@ C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\5-P
 C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\5-PrototypePattern\PrototypePattern\obj\x86\Debug\PrototypePattern.csproj.CoreCompileInputs.cache
 C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\5-PrototypePattern\PrototypePattern\obj\x86\Debug\PrototypePattern.exe
 C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\5-PrototypePattern\PrototypePattern\obj\x86\Debug\PrototypePattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\5-PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\5-PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\5-PrototypePattern\PrototypePattern\obj\x86\Debug\PrototypePattern.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\5-PrototypePattern\PrototypePattern\obj\x86\Debug\PrototypePattern.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\5-PrototypePattern\PrototypePattern\obj\x86\Debug\PrototypePattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\2-CreationalPattern\5-PrototypePattern\PrototypePattern\obj\x86\Debug\PrototypePattern.pdb
