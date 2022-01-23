@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{01E2EC69-5B0B-4E5B-8407-550C64696E32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerExample", "TimerExample\TimerExample.csproj", "{3D89F1B8-5E83-4923-AD53-10EB90C485FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01E2EC69-5B0B-4E5B-8407-550C64696E32}.Debug|x86.ActiveCfg = Debug|x86
+		{01E2EC69-5B0B-4E5B-8407-550C64696E32}.Debug|x86.Build.0 = Debug|x86
+		{01E2EC69-5B0B-4E5B-8407-550C64696E32}.Release|x86.ActiveCfg = Release|x86
+		{01E2EC69-5B0B-4E5B-8407-550C64696E32}.Release|x86.Build.0 = Release|x86
+		{3D89F1B8-5E83-4923-AD53-10EB90C485FD}.Debug|x86.ActiveCfg = Debug|x86
+		{3D89F1B8-5E83-4923-AD53-10EB90C485FD}.Debug|x86.Build.0 = Debug|x86
+		{3D89F1B8-5E83-4923-AD53-10EB90C485FD}.Release|x86.ActiveCfg = Release|x86
+		{3D89F1B8-5E83-4923-AD53-10EB90C485FD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TimerExample\TimerExample.csproj
+	EndGlobalSection
+EndGlobal

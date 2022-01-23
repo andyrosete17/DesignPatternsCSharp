@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattern", "StatePattern\StatePattern.csproj", "{12D2F3CB-ABD2-4325-B1EC-2BCCBE8F6D4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachineExample", "VendingMachineExample\VendingMachineExample.csproj", "{54DFEED2-C718-4DF4-BB1A-449E53AB791E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachineExampleInterface", "VendingMachineExampleInterface\VendingMachineExampleInterface.csproj", "{95F52FD1-6F68-4A94-8D6C-3E9B52E60B72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D2F3CB-ABD2-4325-B1EC-2BCCBE8F6D4B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{12D2F3CB-ABD2-4325-B1EC-2BCCBE8F6D4B}.Debug|x86.ActiveCfg = Debug|x86
+		{12D2F3CB-ABD2-4325-B1EC-2BCCBE8F6D4B}.Debug|x86.Build.0 = Debug|x86
+		{12D2F3CB-ABD2-4325-B1EC-2BCCBE8F6D4B}.Release|Any CPU.ActiveCfg = Release|x86
+		{12D2F3CB-ABD2-4325-B1EC-2BCCBE8F6D4B}.Release|x86.ActiveCfg = Release|x86
+		{12D2F3CB-ABD2-4325-B1EC-2BCCBE8F6D4B}.Release|x86.Build.0 = Release|x86
+		{54DFEED2-C718-4DF4-BB1A-449E53AB791E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{54DFEED2-C718-4DF4-BB1A-449E53AB791E}.Debug|x86.ActiveCfg = Debug|x86
+		{54DFEED2-C718-4DF4-BB1A-449E53AB791E}.Debug|x86.Build.0 = Debug|x86
+		{54DFEED2-C718-4DF4-BB1A-449E53AB791E}.Release|Any CPU.ActiveCfg = Release|x86
+		{54DFEED2-C718-4DF4-BB1A-449E53AB791E}.Release|x86.ActiveCfg = Release|x86
+		{54DFEED2-C718-4DF4-BB1A-449E53AB791E}.Release|x86.Build.0 = Release|x86
+		{95F52FD1-6F68-4A94-8D6C-3E9B52E60B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F52FD1-6F68-4A94-8D6C-3E9B52E60B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F52FD1-6F68-4A94-8D6C-3E9B52E60B72}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{95F52FD1-6F68-4A94-8D6C-3E9B52E60B72}.Debug|x86.Build.0 = Debug|Any CPU
+		{95F52FD1-6F68-4A94-8D6C-3E9B52E60B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F52FD1-6F68-4A94-8D6C-3E9B52E60B72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F52FD1-6F68-4A94-8D6C-3E9B52E60B72}.Release|x86.ActiveCfg = Release|Any CPU
+		{95F52FD1-6F68-4A94-8D6C-3E9B52E60B72}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D60A4C9-E58C-4F1E-89B9-796679CFF467}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = VendingMachineExample\VendingMachineExample.csproj
+	EndGlobalSection
+EndGlobal

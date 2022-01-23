@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\7-ObserverPattern\TimerExample\bin\Debug\TimerExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\7-ObserverPattern\TimerExample\bin\Debug\TimerExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\7-ObserverPattern\TimerExample\obj\x86\Debug\TimerExample.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\7-ObserverPattern\TimerExample\obj\x86\Debug\TimerExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\7-ObserverPattern\TimerExample\obj\x86\Debug\TimerExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\7-ObserverPattern\TimerExample\obj\x86\Debug\TimerExample.pdb

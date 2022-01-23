@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xPe4DKRkloZhkojTykfg7DcDuiMN/YzGqOyg7Awt5QHuHpSrQAmZhWMS/YK6oNnIyX6TsICsHRkTaKz4BDx3/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\4-BehavioralPattern\\8-StatePattern\\VendingMachineExampleInterface\\VendingMachineExampleInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aros\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

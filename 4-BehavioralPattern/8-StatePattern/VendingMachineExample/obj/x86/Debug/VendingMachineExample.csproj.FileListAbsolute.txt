@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\8-StatePattern\VendingMachineExample\bin\Debug\VendingMachineExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\8-StatePattern\VendingMachineExample\bin\Debug\VendingMachineExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\8-StatePattern\VendingMachineExample\obj\x86\Debug\VendingMachineExample.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\8-StatePattern\VendingMachineExample\obj\x86\Debug\VendingMachineExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\8-StatePattern\VendingMachineExample\obj\x86\Debug\VendingMachineExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\8-StatePattern\VendingMachineExample\obj\x86\Debug\VendingMachineExample.pdb
