@@ -42,7 +42,7 @@ namespace VendingMachineExampleInterface_1_Context
             set { _products = value; }
         }
 
-        // Each class pass the this pointer, so that the state classes are able to modify the current state of the vending machine
+        // Each class pass the THIS pointer, so that the state classes are able to modify the current state of the vending machine
         /// <summary>
         /// Handle inserting a coin into the vending machine.
         /// </summary>
