@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.pdb

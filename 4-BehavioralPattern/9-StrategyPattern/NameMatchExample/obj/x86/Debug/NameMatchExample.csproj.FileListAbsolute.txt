@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\NameMatchExample\obj\x86\Debug\NameMatchExample.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\NameMatchExample\obj\x86\Debug\NameMatchExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\NameMatchExample\bin\Debug\NameMatchExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\NameMatchExample\bin\Debug\NameMatchExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\NameMatchExample\obj\x86\Debug\NameMatchExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\NameMatchExample\obj\x86\Debug\NameMatchExample.pdb

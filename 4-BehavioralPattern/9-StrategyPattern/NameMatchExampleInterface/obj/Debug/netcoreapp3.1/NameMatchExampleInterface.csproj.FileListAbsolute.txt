@@ -1,0 +1,13 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\NameMatchExampleInterface\bin\Debug\netcoreapp3.1\NameMatchExampleInterface.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\NameMatchExampleInterface\bin\Debug\netcoreapp3.1\NameMatchExampleInterface.deps.json
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\NameMatchExampleInterface\bin\Debug\netcoreapp3.1\NameMatchExampleInterface.runtimeconfig.json
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\NameMatchExampleInterface\bin\Debug\netcoreapp3.1\NameMatchExampleInterface.runtimeconfig.dev.json
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\NameMatchExampleInterface\bin\Debug\netcoreapp3.1\NameMatchExampleInterface.dll
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\NameMatchExampleInterface\bin\Debug\netcoreapp3.1\NameMatchExampleInterface.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\NameMatchExampleInterface\obj\Debug\netcoreapp3.1\NameMatchExampleInterface.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\NameMatchExampleInterface\obj\Debug\netcoreapp3.1\NameMatchExampleInterface.AssemblyInfoInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\NameMatchExampleInterface\obj\Debug\netcoreapp3.1\NameMatchExampleInterface.AssemblyInfo.cs
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\NameMatchExampleInterface\obj\Debug\netcoreapp3.1\NameMatchExampleInterface.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\NameMatchExampleInterface\obj\Debug\netcoreapp3.1\NameMatchExampleInterface.dll
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\NameMatchExampleInterface\obj\Debug\netcoreapp3.1\NameMatchExampleInterface.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\9-StrategyPattern\NameMatchExampleInterface\obj\Debug\netcoreapp3.1\NameMatchExampleInterface.genruntimeconfig.cache

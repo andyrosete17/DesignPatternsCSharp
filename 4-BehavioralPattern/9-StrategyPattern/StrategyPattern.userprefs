@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NameMatchExample/Program.cs">
+    <Files>
+      <File FileName="NameMatchExample/NameComparer.cs" Line="29" Column="23" />
+      <File FileName="NameMatchExample/ExactComparer.cs" Line="19" Column="30" />
+      <File FileName="NameMatchExample/FuzzyComparer.cs" Line="34" Column="4" />
+      <File FileName="NameMatchExample/AbbreviationComparer.cs" Line="42" Column="6" />
+      <File FileName="NameMatchExample/NameImporter.cs" Line="35" Column="14" />
+      <File FileName="NameMatchExample/Program.cs" Line="57" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="NameMatchExample" expanded="True">
+            <Node name="Program.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ETsnJ6rLJ8lUCKp/xc7k9HH0GUded/LtR2eM79i7VyxYZW+BW0IeoVi8CfE2LTUh7N15r8rNBYBq5ZZlWb5BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aros\\Documents\\Cursos\\Design Patterns\\Practice\\DesignPatternsCSharp\\4-BehavioralPattern\\9-StrategyPattern\\NameMatchExampleInterface\\NameMatchExampleInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aros\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
