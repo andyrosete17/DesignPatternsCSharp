@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\11-VisitorPattern\ProductCatalogExample\bin\Debug\ProductCatalogExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\11-VisitorPattern\ProductCatalogExample\bin\Debug\ProductCatalogExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\11-VisitorPattern\ProductCatalogExample\obj\x86\Debug\ProductCatalogExample.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\11-VisitorPattern\ProductCatalogExample\obj\x86\Debug\ProductCatalogExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\11-VisitorPattern\ProductCatalogExample\obj\x86\Debug\ProductCatalogExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\11-VisitorPattern\ProductCatalogExample\obj\x86\Debug\ProductCatalogExample.pdb

@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\11-VisitorPattern\VisitorPattern\bin\Debug\VisitorPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\11-VisitorPattern\VisitorPattern\bin\Debug\VisitorPattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\11-VisitorPattern\VisitorPattern\obj\x86\Debug\VisitorPattern.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\11-VisitorPattern\VisitorPattern\obj\x86\Debug\VisitorPattern.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\11-VisitorPattern\VisitorPattern\obj\x86\Debug\VisitorPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\11-VisitorPattern\VisitorPattern\obj\x86\Debug\VisitorPattern.pdb

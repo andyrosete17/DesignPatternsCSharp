@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethodPattern", "TemplateMethodPattern\TemplateMethodPattern.csproj", "{FEEC6F3B-A8C8-4579-8A45-4BF684434761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptExample", "EncryptExample\EncryptExample.csproj", "{8A69DF78-2829-429C-9318-C0DEFD44941A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A69DF78-2829-429C-9318-C0DEFD44941A}.Debug|x86.ActiveCfg = Debug|x86
+		{8A69DF78-2829-429C-9318-C0DEFD44941A}.Debug|x86.Build.0 = Debug|x86
+		{8A69DF78-2829-429C-9318-C0DEFD44941A}.Release|x86.ActiveCfg = Release|x86
+		{8A69DF78-2829-429C-9318-C0DEFD44941A}.Release|x86.Build.0 = Release|x86
+		{FEEC6F3B-A8C8-4579-8A45-4BF684434761}.Debug|x86.ActiveCfg = Debug|x86
+		{FEEC6F3B-A8C8-4579-8A45-4BF684434761}.Debug|x86.Build.0 = Debug|x86
+		{FEEC6F3B-A8C8-4579-8A45-4BF684434761}.Release|x86.ActiveCfg = Release|x86
+		{FEEC6F3B-A8C8-4579-8A45-4BF684434761}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = EncryptExample\EncryptExample.csproj
+	EndGlobalSection
+EndGlobal

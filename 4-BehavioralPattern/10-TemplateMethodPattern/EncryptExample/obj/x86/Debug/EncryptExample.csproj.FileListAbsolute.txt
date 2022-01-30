@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\10-TemplateMethodPattern\EncryptExample\bin\Debug\EncryptExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\10-TemplateMethodPattern\EncryptExample\bin\Debug\EncryptExample.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\10-TemplateMethodPattern\EncryptExample\obj\x86\Debug\EncryptExample.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\10-TemplateMethodPattern\EncryptExample\obj\x86\Debug\EncryptExample.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\10-TemplateMethodPattern\EncryptExample\obj\x86\Debug\EncryptExample.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\10-TemplateMethodPattern\EncryptExample\obj\x86\Debug\EncryptExample.pdb

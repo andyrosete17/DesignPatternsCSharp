@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPattern", "VisitorPattern\VisitorPattern.csproj", "{BBE599EF-02E5-4EF8-8FD9-BBADE5532B21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductCatalogExample", "ProductCatalogExample\ProductCatalogExample.csproj", "{DE994B41-1E43-4084-9F13-4F6F64454FA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductCatalogExampleInterface", "ProductCatalogExampleInterface\ProductCatalogExampleInterface.csproj", "{B02D7AFB-5839-4C58-A308-3D3A6B32B283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBE599EF-02E5-4EF8-8FD9-BBADE5532B21}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{BBE599EF-02E5-4EF8-8FD9-BBADE5532B21}.Debug|x86.ActiveCfg = Debug|x86
+		{BBE599EF-02E5-4EF8-8FD9-BBADE5532B21}.Debug|x86.Build.0 = Debug|x86
+		{BBE599EF-02E5-4EF8-8FD9-BBADE5532B21}.Release|Any CPU.ActiveCfg = Release|x86
+		{BBE599EF-02E5-4EF8-8FD9-BBADE5532B21}.Release|x86.ActiveCfg = Release|x86
+		{BBE599EF-02E5-4EF8-8FD9-BBADE5532B21}.Release|x86.Build.0 = Release|x86
+		{DE994B41-1E43-4084-9F13-4F6F64454FA8}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DE994B41-1E43-4084-9F13-4F6F64454FA8}.Debug|x86.ActiveCfg = Debug|x86
+		{DE994B41-1E43-4084-9F13-4F6F64454FA8}.Debug|x86.Build.0 = Debug|x86
+		{DE994B41-1E43-4084-9F13-4F6F64454FA8}.Release|Any CPU.ActiveCfg = Release|x86
+		{DE994B41-1E43-4084-9F13-4F6F64454FA8}.Release|x86.ActiveCfg = Release|x86
+		{DE994B41-1E43-4084-9F13-4F6F64454FA8}.Release|x86.Build.0 = Release|x86
+		{B02D7AFB-5839-4C58-A308-3D3A6B32B283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02D7AFB-5839-4C58-A308-3D3A6B32B283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02D7AFB-5839-4C58-A308-3D3A6B32B283}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B02D7AFB-5839-4C58-A308-3D3A6B32B283}.Debug|x86.Build.0 = Debug|Any CPU
+		{B02D7AFB-5839-4C58-A308-3D3A6B32B283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02D7AFB-5839-4C58-A308-3D3A6B32B283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B02D7AFB-5839-4C58-A308-3D3A6B32B283}.Release|x86.ActiveCfg = Release|Any CPU
+		{B02D7AFB-5839-4C58-A308-3D3A6B32B283}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56034036-0269-4003-9C11-C1FA8CE3EDD6}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ProductCatalogExample\ProductCatalogExample.csproj
+	EndGlobalSection
+EndGlobal

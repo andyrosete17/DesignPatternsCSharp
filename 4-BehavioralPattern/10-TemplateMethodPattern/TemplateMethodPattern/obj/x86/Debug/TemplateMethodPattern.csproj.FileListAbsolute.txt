@@ -1,0 +1,6 @@
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\10-TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\10-TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\10-TemplateMethodPattern\TemplateMethodPattern\obj\x86\Debug\TemplateMethodPattern.csproj.AssemblyReference.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\10-TemplateMethodPattern\TemplateMethodPattern\obj\x86\Debug\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\10-TemplateMethodPattern\TemplateMethodPattern\obj\x86\Debug\TemplateMethodPattern.exe
+C:\Users\aros\Documents\Cursos\Design Patterns\Practice\DesignPatternsCSharp\4-BehavioralPattern\10-TemplateMethodPattern\TemplateMethodPattern\obj\x86\Debug\TemplateMethodPattern.pdb
