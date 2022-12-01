@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>SOLID._3LiskovSubstitutionPrinciple.LiskovGood.Demo</StartupObject>
+    <StartupObject>SOLID._3LiskovSubstitutionPrinciple.LiskovBad.Demo</StartupObject>
   </PropertyGroup>
 
 </Project>
